@@ -1,0 +1,4 @@
+RECFLARE_PHOTON_REALTIME_APP_ID=photonappidplaceholder
+RECFLARE_PHOTON_VOICE_APP_ID=Voiceappidplaceholder
+RECFLARE_PHOTON_CHAT_APP_ID=Chatappidplaceholder
+RECFLARE_TACHYON_HOST_PORT=voice.example.com:7777
